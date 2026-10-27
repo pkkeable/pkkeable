@@ -8,6 +8,14 @@ I build software with Claude Code and Codex, combining my operations experience 
 
 ## Selected work
 
+### [Velum](https://github.com/pkkeable/Velum)
+
+Velum demonstrates a local workflow from reusable identity through individual request review, simulated execution, dated history and encrypted backup and recovery. The preview uses fictional data and a local fake provider, making the behavior inspectable without claiming live removals.
+
+I set the product direction, privacy boundaries, acceptance criteria and release decisions, using Claude Code and Codex for implementation, testing and review.
+
+Start with the [case study](https://github.com/pkkeable/Velum/blob/v0.5.2/docs/CASE_STUDY.md), try the [fictional demo](https://github.com/pkkeable/Velum/tree/v0.5.2#try-the-fictional-demo), or inspect the [release and acceptance evidence](https://github.com/pkkeable/Velum/releases/tag/v0.5.2).
+
 ### [YourSet Insights](https://github.com/pkkeable/yourset-insights-demo)
 
 A decision-support dashboard for interpreting conflicting health and training signals. It connects observations to an assessment, records the user's decision, and preserves the original evidence for later review. The public demonstration uses synthetic data.
