@@ -22,9 +22,15 @@ A decision-support dashboard for interpreting conflicting health and training si
 
 Start with the [walkthrough](https://github.com/pkkeable/yourset-insights-demo#a-short-walkthrough), then explore the [engineering findings](https://github.com/pkkeable/yourset-insights-demo/blob/main/ENGINEERING.md) and [tested capabilities and limits](https://github.com/pkkeable/yourset-insights-demo/blob/main/docs/CAPABILITIES.md).
 
-### YourSet
+### [YourSet](https://www.yourset.fit/demo/case-study)
 
-A strength-training app that replans a session when the time available changes. The source is private; a walkthrough is available on request.
+I train at home around work and family. When a session ran short, I either spent time and energy deciding what to drop or cut whatever came last, and nothing tracked what that default cost over weeks.
+
+A strength-training app that replans a session when the time available changes. A deterministic engine decides what to trim, skip or pair, and every change says why. The source is private; the public demo runs the real engine on a fictional lifter's session.
+
+I defined the problem, the rules the engine follows and the acceptance criteria, and decided what shipped. AI coding agents wrote most of the code.
+
+Start with the [case study](https://www.yourset.fit/demo/case-study), then [try the demo](https://www.yourset.fit/demo).
 
 ## How I approach the work
 
