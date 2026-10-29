@@ -4,17 +4,9 @@
 
 My work spans risk programs at Amazon and global supply chain leadership.
 
-I build software with Claude Code and Codex, combining my operations experience with AI-assisted development. I take responsibility for framing the problems, directing implementation, and evaluating whether the results meet the requirements.
+I use Claude Code and Codex to build software. I define the problems and requirements, direct implementation, and check whether the results meet those requirements.
 
 ## Selected work
-
-### [Velum](https://github.com/pkkeable/Velum)
-
-Velum demonstrates a local workflow from reusable identity through individual request review, simulated execution, dated history and encrypted backup and recovery. The preview uses fictional data and a local fake provider, making the behavior inspectable without claiming live removals.
-
-I set the product direction, privacy boundaries, acceptance criteria and release decisions, using Claude Code and Codex for implementation, testing and review.
-
-Start with the [case study](https://github.com/pkkeable/Velum/blob/v0.5.2/docs/CASE_STUDY.md), try the [fictional demo](https://github.com/pkkeable/Velum/tree/v0.5.2#try-the-fictional-demo), or inspect the [release and acceptance evidence](https://github.com/pkkeable/Velum/releases/tag/v0.5.2).
 
 ### [YourSet Insights](https://github.com/pkkeable/yourset-insights-demo)
 
@@ -24,13 +16,21 @@ Start with the [walkthrough](https://github.com/pkkeable/yourset-insights-demo#a
 
 ### [YourSet](https://www.yourset.fit/demo/case-study)
 
-I train at home around work and family. When a session ran short, I either spent time and energy deciding what to drop or cut whatever came last, and nothing tracked what that default cost over weeks.
+I train at home around work and family. When a session ran short, I either spent time deciding what to drop or cut whatever came last.
 
-A strength-training app that replans a session when the time available changes. A deterministic engine decides what to trim, skip or pair, and each change states what it does and the time it saves. The source is private; the public demo runs the real engine on a fictional lifter's session.
+A strength-training app that replans a session when the time available changes. A deterministic engine proposes changes to sets, exercises and pairings, with estimated time savings. The source is private; the public demo runs the real engine on a fictional lifter's session.
 
 I defined the problem, the rules the engine follows and the acceptance criteria, and decided what shipped. AI coding agents wrote most of the code.
 
 Start with the [case study](https://www.yourset.fit/demo/case-study), then [try the demo](https://www.yourset.fit/demo).
+
+### [Velum](https://github.com/pkkeable/Velum)
+
+A local privacy-request workflow with individual request review, simulated execution, dated history, and encrypted backup and recovery. The preview uses fictional data and a local fake provider, making the behavior inspectable without claiming live removals.
+
+I set the product direction, privacy boundaries, acceptance criteria and release decisions, using Claude Code and Codex for implementation, testing and review.
+
+Start with the [case study](https://github.com/pkkeable/Velum/blob/v0.5.2/docs/CASE_STUDY.md), try the [fictional demo](https://github.com/pkkeable/Velum/tree/v0.5.2#try-the-fictional-demo), or inspect the [release and acceptance evidence](https://github.com/pkkeable/Velum/releases/tag/v0.5.2).
 
 ## How I approach the work
 
